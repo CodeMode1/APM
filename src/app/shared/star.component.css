@@ -1,0 +1,9 @@
+/* the stars div are comprised in the div with the crop class
+the overflow: hidden property will hide all(stars) after the starWidth property*/
+.crop {
+    overflow: hidden;
+}
+
+div {
+    cursor: pointer;
+}

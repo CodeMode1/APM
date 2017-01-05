@@ -1,0 +1,46 @@
+[{
+  "productId": 1,
+  "productName": "Pot Thé",
+  "productCode": "GDN-0011",
+  "releaseDate": "Mars 19, 2016",
+  "description": "Pot thé en céramique blanche.",
+  "price": 19.95,
+  "starRating": 3.2,
+  "imageUrl": "https://openclipart.org/image/800px/svg_to_png/248442/tea-pot.png"
+}, {
+  "productId": 2,
+  "productName": "Skateboard",
+  "productCode": "GDN-0023",
+  "releaseDate": "March 3, 2016",
+  "description": "Roues en polyuréthane; largeur 8.00 pouces.",
+  "price": 69.99,
+  "starRating": 4.2,
+  "imageUrl": "https://openclipart.org/image/800px/svg_to_png/2239/johnny-automatic-skateboard.png"
+}, {
+  "productId": 5,
+  "productName": "Planche à Sushi",
+  "productCode": "TBX-0048",
+  "releaseDate": "Mai 21, 2016",
+  "description": "Largeur 15 pouces; hauteur 10 pouces en bois laminé.",
+  "price": 39.99,
+  "starRating": 4.8,
+  "imageUrl": "https://openclipart.org/image/800px/svg_to_png/218997/sushionaboard.png"
+}, {
+  "productId": 8,
+  "productName": "Basic Drum Kit",
+  "productCode": "TBX-0022",
+  "releaseDate": "Mai 15, 2016",
+  "description": "1 floor tom; 1 caisse-clair; 2 small tom; 2 cymbales; 1 hi-hat, 2 pedals.",
+  "price": 299.99,
+  "starRating": 3.7,
+  "imageUrl": "https://openclipart.org/image/800px/svg_to_png/1017/marcelomotta-Drums.png"
+}, {
+  "productId": 10,
+  "productName": "Converse Shoes",
+  "productCode": "GMG-0042",
+  "releaseDate": "Octobre 15, 2015",
+  "description": "Grandeur 8; Couleur vert forêt.",
+  "price": 49.95,
+  "starRating": 4.6,
+  "imageUrl": "https://openclipart.org/image/800px/svg_to_png/117883/Converse-Chucks.png"
+}]
